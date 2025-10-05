@@ -1,2 +1,2 @@
-# Git Practice
-Giới thiệu: Tôi là <Trần Tấn Lộc>, MSSV <223480>.
+# Project Title
+This is the initial version.
