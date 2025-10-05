@@ -1,2 +1,4 @@
-Nhật ký/
-*.Nhật ký
+# Bỏ qua toàn bộ nội dung thư mục log  #
+log/
+# Bỏ qua toàn bộ file đuôi .log #
+*.log
